@@ -7,7 +7,7 @@ public class GeneratorsTest
 	{
 		for(Class<?> type : surroundingClass.getClass())
 		    System.out.println(type.getSimpleName() + ": ");
-			hhuhssss
+			hhuhsssshiahaihi
 		}
 	}
 
